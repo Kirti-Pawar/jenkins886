@@ -11,6 +11,7 @@ namespace JenkinsProject
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Jenkins");
+            Console.WriteLine("Update after Jenkins")
         }
     }
 }
