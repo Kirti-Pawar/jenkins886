@@ -10,6 +10,7 @@ namespace JenkinsProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome To Jenkins");
         }
     }
 }
